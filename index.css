@@ -1,0 +1,33 @@
+#box {
+  text-align: center;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#button {
+  padding-left: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+button {
+  background-color: red;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: none;
+  border-radius: 4px;
+  width: 5%;
+}
+
+#output-el {
+  padding: 0px;
+  color: red;
+}
+
+#input-el {
+  color: blue;
+  border-color: blueviolet;
+  border-radius: 5px;
+}
